@@ -1,3 +1,5 @@
+C++ Command-Line Deal or No Deal Game
+
 Description
 --------------------------------------------
 This C++ program is the Deal or No Deal game. The game begins with the display of the cases and the case amounts. The game
